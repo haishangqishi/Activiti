@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 input[type=text],
 input[type=password],
 input[type=file],
@@ -6,4 +7,14 @@ textarea{
 	-webkit-appearance:none;
 	-webkit-border-radius:0 !important;
 }
+=======
+input[type=text],
+input[type=password],
+input[type=file],
+input[type=submit],
+textarea{
+	-webkit-appearance:none;
+	-webkit-border-radius:0 !important;
+}
+>>>>>>> 4417bb216feb631658be5fb53da2a693926f6001
 body{-webkit-text-size-adjust:none;}
